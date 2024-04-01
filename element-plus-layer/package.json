@@ -1,7 +1,9 @@
 {
   "name": "@qs-study/element-plus-layer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "HalamLee",
+  "main": "./nuxt.config.ts",
+  "private": false,
   "type": "module",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
