@@ -1,7 +1,11 @@
 {
-  "name": "nuxt-app",
-  "private": true,
+  "name": "@qs-study/element-plus-layer",
+  "version": "1.0.0",
+  "author": "HalamLee",
   "type": "module",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
