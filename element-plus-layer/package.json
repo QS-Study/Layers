@@ -1,6 +1,6 @@
 {
   "name": "@qs-study/element-plus-layer",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "author": "HalamLee",
   "main": "./nuxt.config.ts",
   "private": false,

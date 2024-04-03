@@ -8,6 +8,11 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   ssr: false,
   modules: ['@pinia/nuxt', '@element-plus/nuxt'],
+  vite: {
+    optimizeDeps: {
+      include: ['dayjs', 'dayjs/plugin/*'],
+    },
+  },
   // elementPlus: {
   //   importStyle: 'scss',
   // },
