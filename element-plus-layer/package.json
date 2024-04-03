@@ -17,11 +17,15 @@
   },
   "dependencies": {
     "@element-plus/nuxt": "^1.0.8",
-    "element-plus": "^2.6.3",
     "@pinia/nuxt": "^0.5.1",
-    "sass": "^1.72.0",
+    "element-plus": "^2.6.3",
     "nuxt": "^3.11.1",
+    "sass": "^1.72.0",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0"
+  },
+  "devDependencies": {
+    "unplugin-auto-import": "^0.17.5",
+    "unplugin-vue-components": "^0.26.0"
   }
 }
