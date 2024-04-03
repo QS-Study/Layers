@@ -8,7 +8,9 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   ssr: false,
   modules: ['@pinia/nuxt', '@element-plus/nuxt'],
-
+  elementPlus: {
+    importStyle: 'scss',
+  },
   // css
   css: [join(currentDir, './assets/scss/index.scss')],
 });

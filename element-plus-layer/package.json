@@ -1,6 +1,6 @@
 {
   "name": "@qs-study/element-plus-layer",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "author": "HalamLee",
   "main": "./nuxt.config.ts",
   "private": false,
@@ -24,8 +24,5 @@
     "vue": "^3.4.21",
     "vue-router": "^4.3.0"
   },
-  "devDependencies": {
-    "unplugin-auto-import": "^0.17.5",
-    "unplugin-vue-components": "^0.26.0"
-  }
+  "devDependencies": {}
 }
