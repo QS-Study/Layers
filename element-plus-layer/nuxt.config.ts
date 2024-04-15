@@ -4,7 +4,7 @@ export default defineNuxtConfig({
   modules: ['@element-plus/nuxt'],
   vite: {
     optimizeDeps: {
-      include: ['dayjs', 'dayjs/plugin/*'],
+      include: ['element-plus'],
     },
   },
 });

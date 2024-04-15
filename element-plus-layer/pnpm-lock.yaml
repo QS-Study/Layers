@@ -8,9 +8,6 @@ dependencies:
   '@element-plus/nuxt':
     specifier: ^1.0.8
     version: 1.0.8(@element-plus/icons-vue@2.3.1)(element-plus@2.6.3)
-  dayjs:
-    specifier: ^1.11.10
-    version: 1.11.10
   element-plus:
     specifier: ^2.6.3
     version: 2.6.3(vue@3.4.21)

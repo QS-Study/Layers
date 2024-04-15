@@ -1,6 +1,6 @@
 {
   "name": "@qs-study/element-plus-layer",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "author": "HalamLee",
   "main": "./nuxt.config.ts",
   "private": false,
@@ -17,7 +17,6 @@
   },
   "dependencies": {
     "@element-plus/nuxt": "^1.0.8",
-    "dayjs": "^1.11.10",
     "element-plus": "^2.6.3",
     "nuxt": "^3.11.1",
     "vue": "^3.4.21",
