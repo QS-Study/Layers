@@ -3,11 +3,11 @@ export default defineNuxtConfig({
   ssr: false,
   modules: ['@element-plus/nuxt'],
   build: {
-    transpile: ['dayjs'],
+    transpile: ['element-plus/es', 'dayjs'],
   },
   vite: {
     optimizeDeps: {
-      include: ['dayjs > dayjs'],
+      include: ['dayjs', 'dayjs/plugin/*'],
     },
   },
 });
